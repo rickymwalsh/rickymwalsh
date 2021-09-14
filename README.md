@@ -12,4 +12,6 @@ This repo contains the code for several projects during the course of my masters
 
 https://raw.githubusercontent.com/rickymwalsh/rickymwalsh/master/linkedin-icon2.png
 
-![LinkedIn](linkedin-icon2.png =100x100)
+![LinkedIn](linkedin-icon2.png)
+
+<img src="linkedin-icon2.png" alt="LinkedIn" width="100" height="100"/>
