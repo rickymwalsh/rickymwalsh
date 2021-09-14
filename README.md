@@ -12,4 +12,4 @@ This repo contains the code for several projects during the course of my masters
 
 https://raw.githubusercontent.com/rickymwalsh/rickymwalsh/master/linkedin-icon2.png
 
-[test](linkedin-icon2.png)
+![LinkedIn](linkedin-icon2.png)
