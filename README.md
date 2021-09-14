@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-Ricky 
-
-<img src="https://www.countryflags.io/ie/flat/64.png">  Ireland
-
-<img src="linkedin-icon2.png" href="https://www.linkedin.com/in/ricky-walsh/" alt="LinkedIn" width="50" height="50"/> https://www.linkedin.com/in/ricky-walsh/
-
+Ricky, from Ireland <img src="https://www.countryflags.io/ie/flat/24.png">  Find me on [LinkedIn](https://www.linkedin.com/in/ricky-walsh/)
 
 Currently studying a MSc in Data Science, after having worked for four years in data analytics. 
 Especially interested in applications of data science within the healthcare, clean energy and not-for-profit sectors.
