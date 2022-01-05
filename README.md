@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ricky, a Data Scientist from Ireland <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Ireland_flag_300.png" width=10>. You can find me on [LinkedIn here](https://www.linkedin.com/in/ricky-walsh/).
+I'm Ricky, a Data Scientist from Ireland <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Ireland_flag_300.png" width=20>. You can find me on [LinkedIn here](https://www.linkedin.com/in/ricky-walsh/).
 
 Currently studying a MSc in Data Science, after having worked for four years in data analytics. 
 Especially interested in applications of data science within the healthcare, clean energy and not-for-profit sectors.
