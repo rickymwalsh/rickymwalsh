@@ -7,7 +7,7 @@ Especially interested in applications of data science within the healthcare, cle
 
 The repositories below contain the code for several projects during my masters.
 
-[redi-xai](https://github.com/rickymwalsh/redi-xai) is a project in Explainable AI, exploring how bias in data affects the predictions of an AI model trained to detect skin cancer from images of skin lesions. The [corresponding paper](https://www.mdpi.com/2075-4418/12/1/40) has been published in MDPI Diagnostics.
+[shortcuts-skin-cancer](https://github.com/rickymwalsh/shortcuts-skin-cancer) is a project in Explainable AI, exploring how bias in data affects the predictions of an AI model trained to detect skin cancer from images of skin lesions. The [corresponding paper](https://www.mdpi.com/2075-4418/12/1/40) has been published in MDPI Diagnostics.
 
 [detect-af](https://github.com/rickymwalsh/detect-af) concerns the automatic detection of Atrial Fibrillation episodes using Electrocardiogram (ECG) data. Relevant statistical features from the literature were identified & applied, and were used as inputs to decision tree and XGBoost models.
 
