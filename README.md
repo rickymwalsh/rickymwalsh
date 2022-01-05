@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-I'm Ricky, a Data Scientist from Ireland <img src="https://www.countryflags.io/ie/flat/16.png">. You can find me on [LinkedIn here](https://www.linkedin.com/in/ricky-walsh/).
+I'm Ricky, a Data Scientist from Ireland <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Ireland_flag_300.png">. You can find me on [LinkedIn here](https://www.linkedin.com/in/ricky-walsh/).
 
 Currently studying a MSc in Data Science, after having worked for four years in data analytics. 
 Especially interested in applications of data science within the healthcare, clean energy and not-for-profit sectors.
 
-The repositories below contain the code for several projects during my masters, as well as some utility functions I've written in R or Python over the last few years.
+The repositories below contain the code for several projects during my masters.
 
-[redi-xai](https://github.com/rickymwalsh/redi-xai) is a project in Explainable AI, exploring how bias in data affects the predictions of an AI model trained to detect skin cancer from images of skin lesions. We aim to publish a paper on this project to a scientific journal later this year. 
+[redi-xai](https://github.com/rickymwalsh/redi-xai) is a project in Explainable AI, exploring how bias in data affects the predictions of an AI model trained to detect skin cancer from images of skin lesions. The [corresponding paper](https://www.mdpi.com/2075-4418/12/1/40) has been published in MDPI Diagnostics.
 
 [detect-af](https://github.com/rickymwalsh/detect-af) concerns the automatic detection of Atrial Fibrillation episodes using Electrocardiogram (ECG) data. Relevant statistical features from the literature were identified & applied, and were used as inputs to decision tree and XGBoost models.
 
