@@ -2,7 +2,7 @@
 
 I'm Ricky, a Data Scientist from Ireland <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Ireland_flag_300.png" width=20>. You can find me on [LinkedIn here](https://www.linkedin.com/in/ricky-walsh/).
 
-I'm currently a PhD student in the Empenn team in Inria, Rennes. I am working on techniques to create robust methods for the automatic segmentation of multiple sclerosis of lesions in spinal cord MRI. I am particularly interested in cases of "domain shift", i.e. where the distributions of data differ between training and testing sets, e.g., if we use different MRI scanners or different MRI sequences.
+I'm currently a PhD student in the Empenn team in Inria, Rennes. I am working on techniques to create robust methods for the automatic segmentation of multiple sclerosis of lesions in spinal cord MRI. I am particularly interested in cases of "domain shift", i.e., where the distributions of data differ between training and testing sets, e.g., if we use different MRI scanners or different MRI sequences.
 
 The repositories below contain the code for several projects during my masters (2020-2022).
 
